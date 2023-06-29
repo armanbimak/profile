@@ -1,0 +1,17 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+assets
+
+*.test
+
+*.out
+
+.idea
+
+
+cpu.pprof
+.DS_Store
